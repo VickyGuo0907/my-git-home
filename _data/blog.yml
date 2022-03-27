@@ -1,0 +1,23 @@
+# blog page sections
+- name: Blog
+  href: /blog/
+
+# edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
+- name: Python
+  href: /python/
+
+- name: Machine Learning & AI
+  href: /machine-learning/
+
+- name: Cloud
+  href: /cloud/
+
+- name: Database
+  href: /database/
+
+- name: Mac
+  href: /mac/
+
+- name: Life
+  href: /life/
+

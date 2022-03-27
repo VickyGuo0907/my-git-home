@@ -1,0 +1,77 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Salary.com
+    i18n: company_a
+  desc:
+    detail: Define project plans and assign work to team members for release and maintenance. Participated in a full spectrum of the enterprise product lifecycle - product plan, design, development, test, and delivery. 
+            Followed the agile process - participated in daily SCRUMs, requirement plans, test reviews, analysis, and product certification. Detailed knowledge of all aspects of the enterprise product and understanding of the product lifecycle. 
+            Helped the team balance the long and short-term goals to influence the product roadmap.
+    i18n: company_a_desc
+  date:
+    detail: Nov. 2006 - Mar. 2013
+    i18n: company_a_date
+  job:
+    detail: Full-stack Software Engineer & Team Leader
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Watson Talent (IBM)
+    i18n: company_b
+  desc:
+    detail: As agile team member developed the common security components from design through production deployment. Saas enterprise product design, project plan, development, and production release --- Expertise Manager and My Career Advisor. 
+    i18n: company_b_desc
+  date:
+    detail: Apr. 2013 - Dec. 2016
+    i18n: company_b_date
+  job:
+    detail: Advisory Software Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Watson Health Imaging (IBM)
+    i18n: company_c
+  desc:
+    detail: Created architecture, design, and prototype of Medical Corpus Generator for NLP model training. Implemented backend service and defined the database schema for team usage. Collaborated with Data Scientists for commercialize Imaging Analytics AI algorithm components for AI orchestration product. 
+            Automated CI/CD pipeline for cloud deployment. Responsible for project plan, interface development, feature request validation, code reviews and final certification.
+    i18n: company_c_desc
+  date:
+    detail: Dec. 2016 - Apr. 2018
+    i18n: company_c_date
+  job:
+    detail: Senior Software Engineer
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: Watson Health Transformation (IBM)
+    i18n: company_d
+  desc:
+    detail: Architect and design Watson Health SDLC common tool stack and Test Automation Framework. Define the solution architecture and design for a Jira and Confluence on IBM cloud deployment. 
+            Defined, designed, and delivered a common Test automation framework solution on Watson Health CI/CD toolchain. Provided the detail project plan and implementation path. Provided technical leadership and day to day management of the team.
+    i18n: company_d_desc
+  date:
+    detail: May. 2018 - June. 2021
+    i18n: company_d_date
+  job:
+    detail: Development Lead & Solution Architect
+    i18n: company_d_job
+  icon: fa-plus-square
+
+- name:
+    detail: Watson Health Research (IBM)
+    i18n: company_e
+  desc:
+    detail: Research and evaluate Open Source projects/ components to help with Watson Health Modern data stack, It would be able to empower and expand the capability of the current data framework/pipeline, allowing clients and data scientists to pursue higher- value activities and health insight analysis. 
+            Current focus on metadata management(Datahub & Amundsen)
+    i18n: company_e_desc
+  date:
+    detail: July. 2021 - present
+    i18n: company_e_date
+  job:
+    detail: Development Lead & Solution Architect
+    i18n: company_d_job
+  icon: fa-plus-square

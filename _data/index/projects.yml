@@ -1,0 +1,16 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Data Stack Learning
+  url: https://vickyguo0907.github.io/datastack-learning/
+  gh_user: VickyGuo0907
+  repo: datastack-learning
+  img: /static/assets/img/landing/modern-stack.png
+  desc: This project is my Modern Data Stack Konwledge Sharing project. 
+
+- name: Simple MLOps Pipeline
+  gh_user: VickyGuo0907
+  repo: mlops-pipeline
+  img: /static/assets/img/landing/python.png
+  desc: This project is my MLOps Pipeline project.
+
