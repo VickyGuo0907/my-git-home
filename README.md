@@ -1,7 +1,5 @@
 # My GitHub Home Page
 
-![gitpage deployment](https://github.com/VickyGuo0907/my-git-home/workflows/CI%20github%20pages/badge.svg?branch=main)
-
 This is My GitHub Home page.
 
 ## Local tests/development
