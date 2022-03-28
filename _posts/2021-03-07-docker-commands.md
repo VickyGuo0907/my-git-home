@@ -3,9 +3,9 @@ layout: post
 title:  "Useful docker commands"
 date:   2021-03-07
 desc: "This is useful docker commands"
-keywords: "docker, commands"
-categories: [HTML]
-tags: [docker, commands]
+keywords: "docker, commands, cloud"
+categories: [Cloud]
+tags: [cloud, docker, commands]
 icon: icon-html
 ---
 
@@ -110,7 +110,7 @@ docker restart my-container
 
 ## docker cheat sheet 
 
- [PDF link ](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+ [PDF link](/static/assets/files/docker-cheat-sheet.pdf){target="_blank"}
  
 <!-- Embed PDF File -->
-<iframe src="https://dockerlabs.collabnix.com/docker/cheatsheet/" style="width:1000px; height:800px;" frameborder="0" allowfullscreen></iframe>
+<iframe src="/static/assets/files/docker-cheat-sheet.pdf" style="width:1000px; height:800px;" frameborder="0" allowfullscreen></iframe>

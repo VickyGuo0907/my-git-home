@@ -15,8 +15,8 @@
 - name: Database
   href: /database/
 
-- name: Mac
-  href: /mac/
+- name: Linux
+  href: /linux/
 
 - name: Life
   href: /life/
