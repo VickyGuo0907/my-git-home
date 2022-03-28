@@ -6,7 +6,7 @@
 - name: Python
   href: /python/
 
-- name: Machine Learning & AI
+- name: MachineLearning
   href: /machine-learning/
 
 - name: Cloud
@@ -18,6 +18,6 @@
 - name: Linux
   href: /linux/
 
-- name: Life
-  href: /life/
+- name: Commands
+  href: /commands/
 
