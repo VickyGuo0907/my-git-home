@@ -4,8 +4,8 @@ title:  "Linux Shell Commands"
 date:   2020-03-07
 desc: "Userful Linux Shell Commands"
 keywords: "linux,command"
-categories: [HTML]
-tags: [linux,shell]
+categories: [Commands]
+tags: [linux,shell, commands]
 icon: icon-html
 ---
 

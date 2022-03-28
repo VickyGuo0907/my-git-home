@@ -4,12 +4,12 @@ title:  "Useful kubectl commands"
 date:   2021-03-08
 desc: "This is useful kubectl commands"
 keywords: "kubernetes, commands, kubectl, cloud"
-categories: [Cloud]
+categories: [Commands]
 tags: [cloud, kubernetes, kubectl, commands]
 icon: icon-html
 ---
 
-# Docker commands
+# Kubernetes kubectl commands
 
 ### 1. kubectl get 
 
@@ -75,14 +75,7 @@ kubectl cp commands_copy.txt charts/cherry-chart-88d49478c-dmcfv:commands.txt
 ## kubectl cheat sheet 
 
 <!-- Embed PDF File -->
- [PDF link ](../../resources/cheatsheet/kubernetes-cheat-sheet.pdf){target="_blank"}
+ [PDF link ](https://vickyguo0907.github.io/my-git-home/static/assets/files/kubernetes-cheat-sheet.pdf)
 
-<iframe src="../../resources/cheatsheet/kubernetes-cheat-sheet.pdf" style="width:1000px; height:800px;" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://vickyguo0907.github.io/my-git-home/static/assets/files/kubernetes-cheat-sheet.pdf" style="width:1000px; height:800px;" frameborder="0" allowfullscreen></iframe>
 
-
-## docker cheat sheet 
-
- [PDF link ](https://dockerlabs.collabnix.com/docker/cheatsheet/)
- 
-<!-- Embed PDF File -->
-<iframe src="https://dockerlabs.collabnix.com/docker/cheatsheet/" style="width:1000px; height:800px;" frameborder="0" allowfullscreen></iframe>
